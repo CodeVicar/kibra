@@ -4,6 +4,7 @@ import Hero from '@/components/homepage/Hero'
 import Programs from '@/components/homepage/Programs'
 import About from '@/components/homepage/About'
 import Faq from '@/components/homepage/Faq'
+import Patners from '@/components/Patners'
 
 
 
@@ -18,6 +19,7 @@ export default function Home() {
       <About />
       <Programs />
       <Faq />
+      <Patners />
      
 
 
