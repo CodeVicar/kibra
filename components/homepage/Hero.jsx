@@ -40,7 +40,7 @@ export default function Example() {
                     className="whitespace-nowrap font-semibold text-[#c3b352]"
                   >
                     <span className="absolute inset-0" aria-hidden="true" />
-                    Get involved  <span aria-hidden="true">&rarr;</span>
+                    Get involved <span aria-hidden="true">&rarr;</span>
                   </a>
                 </div>
               </div>
@@ -48,8 +48,11 @@ export default function Example() {
                 Kibra Youth Boxing Initiative
               </h1>
               <p className="mt-6 text-lg leading-8 text-gray-100">
-                Empowering Kibera’s Youth through Boxing and Holistic Education.
-                Nurturing talent|Fostering Growth|Building Futures
+                Welcome to the Kibra Youth Boxing Initiative, a beacon of hope
+                and transformation nestled in the heart of Nairobi, Kenya. At
+                the core of our mission is a profound belief in the power of
+                sports to unlock doors to a brighter future for the children and
+                youth of Kibra.
               </p>
               <div className="mt-10 flex items-center gap-x-6">
                 <a

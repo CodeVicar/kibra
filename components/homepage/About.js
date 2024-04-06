@@ -5,12 +5,25 @@ export default function Example() {
         <h2 className="mx-auto max-w-7xl text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
           Transforming Lives through Boxing and Education{" "}
         </h2>
-        <p className="mx-auto mt-6 max-w-5xl  font-semibold text-lg leading-8 text-gray-900">
-          At Kibra Youth, we believe in using boxing and education to help young
-          people change their lives for the better. Through our programs, we
-          support them in learning new skills and gaining confidence. By
-          combining sports and learning, we aim to give them the tools they need
-          to succeed and make positive changes in their futures."
+        <p className="mx-auto mt-6 max-w-5xl  font-semibold  leading-8 text-gray-900">
+          Through the universal language of sports, we aim to nurture not just
+          athletes but well-rounded individuals imbued with discipline,
+          ambition, and the invaluable life skills necessary to navigate the
+          challenges of life. Our initiative stands as a testament to the
+          potential within each child, offering them a pathway to educational
+          opportunities and sponsorships that might otherwise remain out of
+          reach.
+        </p>
+        <p className="mx-auto mt-6 max-w-5xl  font-semibold leading-8 text-gray-900">
+          Since our inception, we have touched the lives of over 105 young
+          individuals, ranging in age from 7 to 28 years. Our efforts extend
+          beyond the boxing ring; we are committed to ensuring each participant
+          continues their education, supported by a network of corporate
+          sponsors, dedicated professionals, and kind-hearted individuals who
+          share our vision. Join us on this journey to empower the youth of
+          Kibra through sports, education, and community support. Together, we
+          can pave the way for a future filled with promise, success, and
+          endless possibilities.
         </p>
 
         <div className="mt-10 flex flex-col items-center gap-y-4 md:flex-row md:justify-center md:gap-x-6">
