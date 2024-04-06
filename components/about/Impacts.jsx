@@ -2,13 +2,14 @@ const impact = [
   { name: "Youth Development" },
   { name: "Academic Support" },
   { name: "Employment Opportunities" },
+  { name: "Community Safety: " },
+
 ];
 
 const stats = [
   { name: "Kenya Defense Forces: ", value: "8" },
   { name: "The Kenya Police: ", value: "6" },
   { name: "Kenya Prisons: ", value: "4" },
-  { name: "Community Safety: ", value: "2" },
 ];
 
 export default function ImpactSection() {
