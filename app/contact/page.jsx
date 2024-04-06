@@ -22,14 +22,14 @@ export default function ContactUs() {
         src="/./images/brickoffice.jpg"
         alt=""
       /> */}
-      <div className="relative container px-4 mx-auto">
+      <div className="relative container px-4 mx-auto bg-white">
         <div className="max-w-7xl mx-auto">
           <div className="max-w-2xl text-center mx-auto mb-20">
-            <span className="inline-block py-1 px-3 mb-4 text-xs font-semibold text-orange-900 bg-orange-50 rounded-full">
-              READY TO SUPPORT US
+            <span className="inline-block py-1 px-3 mb-4 text-xs font-semibold text-gray-100 bg-gray-900 rounded-full">
+              READY TO SUPPORT US ?
             </span>
           
-            <p className="text-xl text-gray-500 font-semibold">
+            <p className="text-xl text-gray-900 font-semibold">
               Let's build a stronger community together. Reach out to us for any
               inquiries or to get involved in our initiatives.
             </p>
@@ -53,7 +53,7 @@ export default function ContactUs() {
                       /> */}
                     </div>
                     <div>
-                      <span className="text-lg text-gray-500">Phone</span>
+                      <span className="text-lg text-gray-900">Phone</span>
                       <span className="block text-lg font-semibold text-gray-900">
                         +254 718 106582
                       </span>
@@ -67,7 +67,7 @@ export default function ContactUs() {
                       /> */}
                     </div>
                     <div>
-                      <span className="text-lg text-gray-500">Email</span>
+                      <span className="text-lg text-gray-900">Email</span>
                       <span className="block text-lg font-semibold text-gray-900">
                         kibrayouthboxinginitiative@gmail.com
                       </span>
@@ -82,7 +82,7 @@ export default function ContactUs() {
                       />
                     </div>
                     <div>
-                      <span className="text-lg text-gray-500">Office</span>
+                      <span className="text-lg text-gray-900">Office</span>
                       <span className="block text-lg font-semibold text-gray-900">
                         Woodley, Adams Arcade, Nairobi, Kenya
                       </span>
