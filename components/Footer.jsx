@@ -134,7 +134,7 @@ export default function Example() {
             <span className="">
               Powerd By{" "}
               <span className="font-bold text-green-900">
-                <a href="https://www.wareflow.co.ke">Wareflow </a>
+                <a href="https://www.wareflowafrica.com">Wareflow </a>
               </span>{" "}
               Technologies LTD{" "}
             </span>
