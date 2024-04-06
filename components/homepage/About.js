@@ -29,7 +29,7 @@ export default function Example() {
         <div className="mt-10 flex flex-col items-center gap-y-4 md:flex-row md:justify-center md:gap-x-6">
           <a
             href="/contact"
-            className="rounded-md bg-white border-2 px-3.5 py-3.5 text-lg font-bold  shadow-sm focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
+            className="rounded-md bg-black text-white border-2 px-3.5 py-3.5 text-lg font-bold  shadow-sm focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
           >
             FIND OUT MORE
           </a>
